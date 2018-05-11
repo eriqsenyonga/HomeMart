@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeMart</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Navigation drawer open</string>
+    <string name="navigation_drawer_close">navigation drawer closed</string>
+    <string name="title_activity_billing_details">Billing Details</string>
+    <string name="title_activity_splash_screen">HomeMart</string>
+
+    <string name="about_hellofresh">HomeMart is a leading fresh food delivery company in Uganda. Each week we bring you the best of Fresh fruits and vegetables right to your door step. Get only the freshest with ease in the quickest time possible!</string>
+
+    <string name="about_dev">Plexosys Consult Ltd is a top I.T and software solutions company in Uganda with a vision to improve and ease lives of people by developing the best quality user friendly I.T. solutions for them and their businesses!</string>
+</resources>
